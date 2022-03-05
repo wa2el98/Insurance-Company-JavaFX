@@ -1,0 +1,30 @@
+[
+  {
+    "ClientDetails": {
+      "Client": [
+        {
+          "date": "5/31/1998",
+          "insurance": "apartment",
+          "lastName": "Hamada",
+          "name": "Wael",
+          "remarks": "nothing"
+        },
+        {
+          "name": "bahaa",
+          "lastName": "bahaa",
+          "date": "7/17/2000",
+          "remarks": "everything",
+          "insurance": "Car"
+        },
+        {
+          "name": "Ahmad",
+          "lastName": "Hamada",
+          "date": "1/22/2018",
+          "remarks": "no remark",
+          "insurance": "apartment"
+        }
+      ]
+      }
+    }
+  
+]
